@@ -71,4 +71,4 @@
 - Github: https://github.com/koji-inui
 
 
-![image](https://user-images.githubusercontent.com/18414885/201269678-642d98e4-2450-42ca-8306-3f8c9b46d104.png)
+<!-- ![image](https://user-images.githubusercontent.com/18414885/201269678-642d98e4-2450-42ca-8306-3f8c9b46d104.png) -->
