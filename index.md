@@ -23,8 +23,10 @@
 - K. Inui, and Y. Motome, Channel-selective non-Fermi liquid behavior in the two-channel Kondo lattice model under a magnetic field, [Physical Review B 102, 155126 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.155126).
 
 ## 国際会議における口頭発表
+- K. Inui, Y. Motome, APS March meeting 2023, Las Vegas, US (2023.03).
+"Inverse Hamiltonian design by automatic differentiation"
 - K. Inui, Y. Kato, Y. Motome, APS March meeting 2022, online, US (2022.03).
-" Determinant-free fermionic wave function using feed-forward neural networks "
+"Determinant-free fermionic wave function using feed-forward neural networks"
 - K. Inui, Y. Kato, Y. Motome, International Conference on Quantum Liquid Crystals 2021 (QLC2021).
 "Determinant-free fermionic wave function using a feed-forward neural network"
 
