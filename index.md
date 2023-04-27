@@ -57,7 +57,7 @@
 "Approximate fermion many-body wave function by a feed-forward neural network" (Second prize poster award)
 
 ## 報道等
-- 日刊工業新聞　　(2023年4月27日付), "研究DXの隘路をいく ＃05/情報技術が材料開発のデータ制約を解く" [記事](https://newswitch.jp/p/36770)
+- 日刊工業新聞 (2023年4月27日付), "研究DXの隘路をいく ＃05/情報技術が材料開発のデータ制約を解く" [記事](https://newswitch.jp/p/36770)
 - 現代化学　2023年5月号, "FLASH/望む物性を持つ物質を自動設計" [詳細](https://www.tkd-pbl.com/book/b10031235.html)
 - 日刊工業新聞 (2023年3月8日付), "経営ひと言／東京大学・求幸年教授「データ不要」" [記事](https://www.nikkan.co.jp/articles/view/00665789)
 - 日刊工業新聞 (2023年3月2日付), "数理モデルから欲しい結果逆算　東大・理研が新手法、自動微分で変数最適化" [記事](https://www.nikkan.co.jp/articles/view/00665068)
