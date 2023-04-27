@@ -18,9 +18,9 @@
 
 
 ## 出版論文
-- K. Inui, and Y. Motome, Inverse Hamiltonian design by automatic differentiation, arXiv:2203.07157.
-- K. Inui, Y. Kato, and Y. Motome, Determinant-free fermionic wave function using feed-forward neural networks, Phys. Rev. Research 3, 043126 (2021).
-- K. Inui, and Y. Motome, Channel-selective non-Fermi liquid behavior in the two-channel Kondo lattice model under a magnetic field, Phys. Rev. B 102, 155126 (2020).
+- K. Inui, and Y. Motome, Inverse Hamiltonian design by automatic differentiation, [Communications Physics 6, 37 (2023)](https://www.nature.com/articles/s42005-023-01132-0).
+- K. Inui, Y. Kato, and Y. Motome, Determinant-free fermionic wave function using feed-forward neural networks, [Physical Review Research 3, 043126 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043126).
+- K. Inui, and Y. Motome, Channel-selective non-Fermi liquid behavior in the two-channel Kondo lattice model under a magnetic field, [Physical Review B 102, 155126 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.155126).
 
 ## 国際会議における口頭発表
 - K. Inui, Y. Kato, Y. Motome, APS March meeting 2022, online, US (2022.03).
