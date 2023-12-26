@@ -1,5 +1,9 @@
 # 乾 幸地 (Koji Inui, Ph.D)  
 
+メールアドレス
+- koji-inui@atto.t.u-tokyo.ac.jp (大学)
+- koji.inui.ds@gmail.com (個人)
+
 ## 経歴
 
 東京大学大学院工学系研究科物理工学専攻求研究室
