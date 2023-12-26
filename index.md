@@ -22,6 +22,8 @@
 
 →東京大学大学院工学系研究科原子力国際専攻 特任助教
 
+兼 株式会社カルマリオン 
+
 
 ## 出版論文
 - K. Inui, and Y. Motome, Inverse Hamiltonian design by automatic differentiation, [Communications Physics 6, 37 (2023)](https://www.nature.com/articles/s42005-023-01132-0).
