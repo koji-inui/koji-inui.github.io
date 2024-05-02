@@ -1,7 +1,7 @@
 # 乾 幸地 (Koji Inui, Ph.D)  
 
 メールアドレス
-- koji-inui@atto.t.u-tokyo.ac.jp (大学)
+- koji-inui@g.ecc.u-tokyo.ac.jp (大学)
 - koji.inui.ds@gmail.com (個人)
 
 ## 経歴
