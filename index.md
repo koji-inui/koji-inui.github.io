@@ -22,7 +22,12 @@
 
 →東京大学大学院工学系研究科原子力国際専攻 特任助教
 
+→東京大学物性研究所 特任准教授
+
 兼 株式会社カルマリオン 
+
+## プレプリント
+- K. Inui, and Y. Motome, Inverse Hamiltonian design of highly-entangled quantum systems, [arXiv:2402.15802](https://arxiv.org/abs/2402.15802).
 
 
 ## 出版論文
